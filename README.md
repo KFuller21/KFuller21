@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KFuller21
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning GCP and Azure (some AWS)
+- 🌱 I’m currently learning AWS and GCP
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me Kristen.leigh.fuller@gmail.com
 
